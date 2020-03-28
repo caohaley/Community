@@ -1,7 +1,7 @@
 {
-  "name": "material-kit",
-  "version": "2.0.7",
-  "description": "Material Kit, a Google Material Desgin. Coded by Creative Tim",
+  "name": "material-dashboard",
+  "version": "2.1.2",
+  "description": "Material Dasboard, a Google Material Desgin. Coded by Creative Tim",
   "main": "index.html",
   "directories": {
     "example": "root"
@@ -10,34 +10,34 @@
     "open-app": "gulp open-app",
     "start": "npm run open-app",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "watch": "gulp-watch"
+    "watch": "gulp watch"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creativetimofficial/material-kit.git"
+    "url": "git+https://github.com/creativetimofficial/material-dashboard.git"
   },
   "keywords": [
-    "material kit",
+    "material dashboard",
     "bootstrap material admin",
-    "bootstrap material kit",
+    "bootstrap material dashboard",
     "material design admin",
     "material design",
     "creative tim",
-    "html kit",
-    "html css kit",
-    "web kit",
+    "html dashboard",
+    "html css dashboard",
+    "web dashboard",
     "freebie",
-    "free bootstrap kit",
-    "css3 kit",
+    "free bootstrap dashboard",
+    "css3 dashboard",
     "bootstrap admin",
-    "bootstrap kit",
+    "bootstrap dashboard",
     "frontend",
-    "responsive bootstrap kit"
+    "responsive bootstrap dashboard"
   ],
   "author": "Creative Tim <hello@creative-tim.com> (https://www.creative-tim.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/creativetimofficial/material-kit/issues"
+    "url": "https://github.com/creativetimofficial/material-dashboard/issues"
   },
   "devDependencies": {
     "gulp": "^4.0.2",
@@ -48,5 +48,5 @@
     "gulp-sourcemaps": "^2.6.5",
     "gulp-open": "^3.0.1"
   },
-  "homepage": "https://demos.creative-tim.com/material-kit/index.html"
+  "homepage": "http://demos.creative-tim.com/material-dashboard/examples/dashboard.html?_ga=2.143239282.69692347.1519629130-329288944.1519374311"
 }
